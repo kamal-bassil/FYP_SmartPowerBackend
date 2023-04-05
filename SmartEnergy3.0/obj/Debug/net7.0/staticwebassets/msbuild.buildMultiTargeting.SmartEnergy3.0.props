@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SmartEnergy3.0.props" />
+</Project>
